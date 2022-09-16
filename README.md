@@ -1,2 +1,5 @@
 # GitFlowSample2
-Learning GitFloe
+Learning GitFlow
+
+Myfeature #1
+ 1...
